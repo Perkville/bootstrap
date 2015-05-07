@@ -36,3 +36,6 @@ Thumbs.db
 # Folders to ignore
 bower_components
 node_modules
+
+# Pipeline creates compiled .css files from .less files during development
+less/*.css
